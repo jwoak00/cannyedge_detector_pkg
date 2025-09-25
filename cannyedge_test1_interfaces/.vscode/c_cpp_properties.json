@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jungwoo/px4_ros_com_ws/install/px4_ros_com/include/**",
+        "/home/jungwoo/px4_ros_com_ws/install/px4_msgs/include/**",
+        "/home/jungwoo/ku_ws/install/turtlesim/include/**",
+        "/home/jungwoo/nav2_ws/install/turtlebot3_msgs/include/**",
+        "/home/jungwoo/nav2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/jungwoo/nav2_ws/install/serial/include/**",
+        "/home/jungwoo/nav2_ws/install/openslam_gmapping/include/**",
+        "/home/jungwoo/nav2_ws/install/object_msgs/include/**",
+        "/home/jungwoo/nav2_ws/install/neo_msgs2/include/**",
+        "/home/jungwoo/nav2_ws/install/neo_localization2/include/**",
+        "/home/jungwoo/nav2_ws/install/neo_local_planner2/include/**",
+        "/home/jungwoo/ros2_ws/install/cannyedge_test1_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/jungwoo/ros2_ws/src/cannyedge_test1_interfaces/include/**",
+        "/home/jungwoo/ros2_ws/src/my_hole_detector_pkg/include/**",
+        "/home/jungwoo/ros2_ws/src/realsense-ros/realsense2_camera/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
